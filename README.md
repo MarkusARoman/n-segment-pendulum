@@ -1,4 +1,4 @@
-# n-segment-pendulum
+# n-pendulum
 Github Project a Day Streak (III)
 
 This project simulates an n-pendulum system and uses the position of the final pendulum point to generate a Julia fractal in real time using OpenGL dynamically.
