@@ -22,9 +22,9 @@ A line trail of the last N points is rendered with alpha fading.
 A full-screen quad displays the Julia fractal in the background.
 
 ### GLSL
-> pendulum
+<ins>pendulum</ins>
 Responsible for rendering pendulum lines and trails with transparency and color fading.
-> julia
+<ins>julia</ins>
 Used to generate the Julia set based on the pendulum's tip position.
 
 ## License
